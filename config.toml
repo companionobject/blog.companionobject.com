@@ -1,0 +1,74 @@
+baseurl = "http://bootcamp.companionobject.com/"
+title = "Companion Object Bootcamp. Learn to build quality Android apps, for free."
+languageCode = "en-us"
+disqusShortname = "companionobject" # Optional, enable Disqus integration
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Companion Object Bootcamp"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/lesson/:year/:month/:day/:title/"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "subjects"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    truncate = false
+
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Learn how to develop high-quality, bug-free Android apps. Update your team's processes and cut development costs."
+    defaultKeywords = "android,development,apps,mobile,testing,quality,assurance,qa,bugs,bugfree,learn,bootcamp,university,education"
+
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = false
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+    theme = "layout-reverse"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "github"
+
+    # Optional additional custom CSS file URL, will override other styles.
+    customCSS = "/css/bootcamp.css"
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "Learn to build great apps."
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Companion Object Bootcamp"
+
+    # Metadata used to drive integrations.
+    googleAnalytics = "UA-87630710-1"
+    gravatarHash = "c9bbc99be26e08a3ff815a95d7a786f9"
+
+    # Sidebar social links, these must be full URLs.
+    github = ""
+    bitbucket = ""
+    stackOverflow = ""
+    linkedin = ""
+    googleplus = ""
+    # facebook = "https://facebook.com/companionobject"
+    # twitter = "https://twitter.com/companionobject"
+    youtube = ""
+
+    # Other social-like sidebar links
+    # rss = true # switch to true to enable RSS icon link
+    # flattr = ""  # populate with your flattr uid
