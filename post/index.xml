@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Companion Object Bootcamp. Learn to build quality Android apps, for free.</title>
+    <link>http://bootcamp.companionobject.com/post/</link>
+    <description>Recent content in Posts on Companion Object Bootcamp. Learn to build quality Android apps, for free.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Nov 2016 15:01:37 +0100</lastBuildDate>
+    <atom:link href="http://bootcamp.companionobject.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to COB</title>
+      <link>http://bootcamp.companionobject.com/lesson/2016/11/19/welcome-to-cob/</link>
+      <pubDate>Sat, 19 Nov 2016 15:01:37 +0100</pubDate>
+      
+      <guid>http://bootcamp.companionobject.com/lesson/2016/11/19/welcome-to-cob/</guid>
+      <description>&lt;p&gt;Companion Object Bootcamp is your source of knowledge about mobile DevOps for Android. While features are crucial to any app&amp;rsquo;s success and popularity, there are many other aspects of mobile app development which despite being as important, are often neglected. Android developers and development teams find it hard to implement robust development processes and automated pipelines that allow for proper Quality Assurance practices to take place regularly and efficiently. Some of the reasons for such status quo may be explained by technical debt, limited resources, and complexity of Android tooling ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Companion Object Bootcamp aims to shed a spotlight on all aspects of mobile DevOps and help managers, team leaders and developers to introduce proper practices into their development processes and ensure that the whole app delivery process - not just feature development - is covered, and is handled efficiently, freeing up resources for more productive work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bootcamp.companionobject.com/about/&#34;&gt;Read more&lt;/a&gt; about Companion Object Bootcamp.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
